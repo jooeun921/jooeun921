@@ -86,6 +86,7 @@ GitHub Repository : [License-Plate-Identification](https://github.com/kairosial/
 
 ---
 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <!-- Solved.ac 배지와 GitHub Streak 배지 - 같은 높이로 비율 유지 -->
@@ -96,8 +97,12 @@ GitHub Repository : [License-Plate-Identification](https://github.com/kairosial/
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=jooeun921&show_icons=true&theme=dracula" height="180" />
     </a>
-    <a href="https://www.solve-nyang.com">
-      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="380" height="350"/>
+  </div>
+
+  <!-- 3D 프로필 이미지와 Solve-nyang 배지 - 같은 높이로 비율 유지 -->
+  <div style="display: flex; gap: 5px; align-items: center;">
+    <a href="https://www.solve-nyang.com" style="display: flex; align-items: center;">
+      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" height="200"/>
     </a>
     <img src="./profile-3d-contrib/profile-night-view.svg" width="430" height="300" />
   </div>
