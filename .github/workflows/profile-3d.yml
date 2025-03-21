@@ -17,6 +17,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+          git remote set-url origin https://jooeun921@github.com/jooeun921/jooeun921.git
           git config user.name jooeun921
           git config user.email jooeun921@gmail.com
           git add -A .
