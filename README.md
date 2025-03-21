@@ -89,21 +89,21 @@ GitHub Repository : [License-Plate-Identification](https://github.com/kairosial/
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Solved.ac 배지와 GitHub Streak 배지 - 같은 높이로 비율 유지 -->
-  <div style="display: flex; gap: 20px; align-items: center;">
+  <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://solved.ac/dmswnqkr1197">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswnqkr1197" height="217" />
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswnqkr1197" height="202" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=jooeun921&show_icons=true&theme=dracula" height="217" />
+      <img src="https://streak-stats.demolab.com/?user=jooeun921&show_icons=true&theme=dracula" height="202" />
     </a>
   </div>
 
   <!-- 3D 프로필 이미지와 Solve-nyang 배지 - 같은 높이로 비율 유지 -->
-  <div style="display: flex; gap: 20px; align-items: center;">
+  <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.solve-nyang.com">
-      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="490" height="330"/>
+      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="410" height="350"/>
     </a>
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="510" height="330" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="470" height="300" />
   </div>
 
 </div>
