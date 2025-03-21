@@ -101,9 +101,9 @@ GitHub Repository : [License-Plate-Identification](https://github.com/kairosial/
   <!-- 3D 프로필 이미지와 Solve-nyang 배지 - 같은 높이로 비율 유지 -->
   <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.solve-nyang.com">
-      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="410" height="350"/>
+      <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="380" height="350"/>
     </a>
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="470" height="300" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="430" height="300" />
   </div>
 
 </div>
