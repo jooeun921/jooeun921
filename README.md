@@ -1,5 +1,5 @@
 # 🚧아직 전체적으로 공사중입니다...!🚧
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=100&duration=7000&pause=4000&color=0C55F7&center=true&vCenter=true&width=870&height=200&lines=Hello!+I'm+Jueun+Park)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=100&duration=6000&pause=4000&color=0C55F7&center=true&vCenter=true&repeat=false&width=870&height=200&lines=Hello!+I'm+Jueun+Park)](https://git.io/typing-svg)  
 안녕하세요 새싹 개발자 `박주은`입니다.  
 🧭나만의 길을 찾아가는 여정 속에 있습니다.
 <!--
@@ -103,7 +103,7 @@
     <a href="https://www.solve-nyang.com" style="display: flex; align-items: center;">
       <img src="https://api.solve-nyang.com/compose/dmswnqkr1197" height="235"/>
     </a>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="235" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" height="235" />
   </div>
 
 </div>
