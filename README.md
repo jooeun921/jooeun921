@@ -1,11 +1,10 @@
 # 🚧아직 전체적으로 공사중입니다...!🚧
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=100&pause=2000&color=0C55F7&center=true&vCenter=true&width=870&height=200&lines=Hello!+I'm+Jueun+Park)](https://git.io/typing-svg)
-
-안녕하세요 새싹 개발자 `박주은`입니다.
-🧭 제가 맞는 길이 무엇일지 계속 찾아나가는 중이에요
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=100&duration=7000&pause=4000&color=0C55F7&center=true&vCenter=true&width=870&height=200&lines=Hello!+I'm+Jueun+Park)](https://git.io/typing-svg)  
+안녕하세요 새싹 개발자 `박주은`입니다.  
+🧭나만의 길을 찾아가는 여정 속에 있습니다.
+<!--
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/timeturner/1a9aa73d5dee80d7b85ed9e9507cfacc?pvs=4)
-
+-->
 ## 🏫 Hanyang University ERICA
 **Media Technology Undergraduate (2021.03 - 2024.08)**  
 
