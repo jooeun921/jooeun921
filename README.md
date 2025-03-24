@@ -1,5 +1,5 @@
-# 🚧아직 전체적으로 공사중입니다...!🚧
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=100&duration=6000&pause=4000&color=87CEFA&center=true&vCenter=true&repeat=false&width=870&height=200&lines=Hello!+I'm+Jueun+Park)](https://git.io/typing-svg)  
+# 🚧공사중🚧
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=88&pause=4000&color=87CEFA&center=true&vCenter=true&repeat=false&width=870&height=200&lines=+Hello!+I'm+Jueun+Park%F0%9F%98%80)](https://git.io/typing-svg)  
 안녕하세요 새싹 개발자 `박주은`입니다.  
 🧭나만의 길을 찾아가는 여정 속에 있습니다.
 <!--
