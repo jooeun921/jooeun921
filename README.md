@@ -80,6 +80,8 @@
 <img src="./profile-3d-contrib/profile-night-view.svg" width="550" height="400" />
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dmswnqkr1197" width="550" height="300"/></a>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jooeun921&theme=tokyonight&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
+
 -->
 <br />
 
@@ -94,7 +96,7 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswnqkr1197" height="180" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=jooeun921&show_icons=true&theme=dracula" height="180" />
+      <img src="https://streak-stats.demolab.com/?user=jooeun921&show_icons=true&theme=tokyonight&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
     </a>
   </div>
 
