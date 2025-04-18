@@ -76,12 +76,20 @@
 
 ### 🤧 **IT 분야 비기너를 위한 취업 준비를 돕는 맞춤형 구직 도우미 엣취**  
 *Hire Me ASAP* | **OCR 모듈 개발 및 개발 모듈 통합 수행**  
-**기간:** 2025.04.02 ~ 2025.04.28  
+**기간:** 2025.04.02 ~ 2025.04.18  
 
-- **엣취**와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
+- **엣취**와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap)
 - **최종 발표자료:** [여기서 보기](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap/hire-me-app)
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/hire-me-asap/.github/raw/main/profile/resources/%EB%B0%B0%EB%84%88.png" alt="팀 타이틀" style="width: 50%;" />
+  <img src="https://github.com/hire-me-asap/.github/raw/main/profile/resources/%EC%97%A3%EC%B7%A8-%ED%83%80%EC%9D%B4%ED%8B%80.png" alt="엣취 타이틀" style="width: 50%;" />
+</div>  
+
+<br />  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
+
 
 #### 🛠 **Tech Stack**
 ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
@@ -96,6 +104,7 @@
 
 
 
+<br />  
 
 <!--
 ### 🛠 Tech Stack  
@@ -112,6 +121,7 @@
 
 -->
 <br />
+
 
 ---
 
