@@ -1,4 +1,3 @@
-# 🚧공사중🚧
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=88&pause=4000&color=87CEFA&center=true&vCenter=true&repeat=false&width=870&height=200&lines=+Hello!+I'm+Jueun+Park%F0%9F%98%80)](https://git.io/typing-svg)  
 안녕하세요 새싹 개발자 `박주은`입니다.  
 🧭나만의 길을 찾아가는 여정 속에 있습니다.
@@ -24,6 +23,8 @@
 - **중간 산출물:** [기획 및 설계 발표 영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)  
 - **최종 결과물:** [웹 사이트 배포](https://hanyangcapstoneproject.github.io/peanut/)  
 - **개발 문서 및 활동 내역:** [캡스톤 성과물 최종본.pdf](https://drive.google.com/file/d/1mugthVPKLWc73GlZAQCAa8stZRan9GG6/view?usp=sharing)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HanyangCapstoneProject&repo=peanut&theme=graywhite&show_owner=true)](https://github.com/HanyangCapstoneProject/peanut)
 
 #### 🛠 **Tech Stack**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -53,11 +54,13 @@
 ---
 
 ### 🚘 **이미지 기반 자동차 번호판 인식 시스템**  
-**팀 잡았다요놈🚨** | **OCR 모듈 개발 및 개발 모듈 통합 수행**  
+**잡았다요놈🚨** | **OCR 모듈 개발 및 개발 모듈 통합 수행**  
 **기간:** 2025.02.13 ~ 2025.02.26  
 
-- **GitHub Repository:** [License-Plate-Identification](https://github.com/kairosial/License-Plate-Identification.git)  
+- **깃헙레포:** [자동차번호판~](https://github.com/kairosial/License-Plate-Identification.git)  
 - **최종 발표자료:** [여기서 보기](https://drive.google.com/file/d/1zM274BRcRhh-zJG3OGaCtO12Qb-p75h2/view?usp=sharing)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairosial&repo=License-Plate-Identification&theme=graywhite&show_owner=true)](https://github.com/kairosial/License-Plate-Identification)
 
 #### 🛠 **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,6 +70,31 @@
 ![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure Custom Vision](https://img.shields.io/badge/Azure%20Custom%20Vision-008AD7?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+
+---
+
+### 🤧 **IT 분야 비기너를 위한 취업 준비를 돕는 맞춤형 구직 도우미 엣취**  
+*Hire Me ASAP* | **OCR 모듈 개발 및 개발 모듈 통합 수행**  
+**기간:** 2025.04.02 ~ 2025.04.28  
+
+- **엣취**와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
+- **최종 발표자료:** [여기서 보기](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap/hire-me-app)
+
+#### 🛠 **Tech Stack**
+![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat-square&logo=gradio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+
 
 
 <!--
