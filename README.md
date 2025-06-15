@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=88&pause=4000&color=87CEFA&center=true&vCenter=true&repeat=false&width=870&height=200&lines=+Hello!+I'm+Jueun+Park%F0%9F%98%80)](https://git.io/typing-svg)  
 안녕하세요 새싹 개발자 `박주은`입니다.  
-어릴 때부터 궁금한 점이 생기면 깊이 탐구하는 성격입니다. 세상에 기여하는 서비스를 만들고자 프로그래밍을 시작했고, 여러 프로젝트에서 백엔드 엔지니어 역할을 맡아 경험을 쌓았습니다. 이 경험을 바탕으로 백엔드 엔지니어와 AI 엔지니어 직무에서 일하기를 희망하고 있습니다.  
-[백엔드 엔지니어 이력서](https://drive.google.com/file/d/1o4x2ZhTuA0gzh4G0Ey7GPigTTXFOnEuB/view?usp=sharing)
-[AI 엔지니어 이력서](https://drive.google.com/file/d/1VyfxNlzY1zJQwHGhDGubVkFUaPB1h8pi/view?usp=sharing)
+어릴 때부터 궁금한 점은 끝까지 파고드는 성격으로, 세상에 기여하는 서비스를 만들고자 프로그래밍을 시작했습니다.  
+백엔드 개발과 데이터 처리 경험을 쌓으며 문제 해결의 매력을 깊이 느꼈고, AI 기술을 효과적으로 구현하기 위해 백엔드 아키텍처 설계, 데이터 파이프라인 구축, MLOps 환경 구성 등 AI 엔지니어링 역량을 함께 키워왔습니다.
+Flask 기반 REST API 구현, PostgreSQL 설계 및 마이그레이션, CI/CD 파이프라인 구축 등 백엔드 시스템 전반을 직접 설계하고 운영해본 경험이 있습니다.  
+이러한 경험을 바탕으로 백엔드와 AI 엔지니어링을 융합해 실질적인 가치를 만들어내는 엔지니어로 성장하길 희망합니다.  
 
 ## Education
 ### 🏫 Hanyang University ERICA
