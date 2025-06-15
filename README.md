@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=88&pause=4000&color=87CEFA&center=true&vCenter=true&repeat=false&width=870&height=200&lines=+Hello!+I'm+Jueun+Park%F0%9F%98%80)](https://git.io/typing-svg)  
 안녕하세요 새싹 개발자 `박주은`입니다.  
-어릴 때부터 궁금한 점이 생기면 깊이 탐구하는 성격입니다. 세상에 기여하는 서비스를 만들고자 프로그래밍을 시작했고, 여러 프로젝트에서 백엔드 엔지니어 역할을 맡아 경험을 쌓았습니다. 이 경험을 바탕으로 백엔드 엔지니어와 AI 엔지니어링 직무에서 일하기를 희망하고 있습니다.  
-[이력서 보러가기](https://drive.google.com/file/d/1GGwk4jiVZaXfbUx3b4iBOq0t1LWMfZ1k/view?usp=sharing)
+어릴 때부터 궁금한 점이 생기면 깊이 탐구하는 성격입니다. 세상에 기여하는 서비스를 만들고자 프로그래밍을 시작했고, 여러 프로젝트에서 백엔드 엔지니어 역할을 맡아 경험을 쌓았습니다. 이 경험을 바탕으로 백엔드 엔지니어와 AI 엔지니어 직무에서 일하기를 희망하고 있습니다.  
+[백엔드 엔지니어 이력서](https://drive.google.com/file/d/1o4x2ZhTuA0gzh4G0Ey7GPigTTXFOnEuB/view?usp=sharing)
+[AI 엔지니어 이력서](https://drive.google.com/file/d/1VyfxNlzY1zJQwHGhDGubVkFUaPB1h8pi/view?usp=sharing)
 
 ## Education
 ### 🏫 Hanyang University ERICA
