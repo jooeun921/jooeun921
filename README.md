@@ -28,7 +28,7 @@
 - **우리들의** [작업공간](https://github.com/wasseobi)
 - **최종 발표자료:** [여기서 보기](https://drive.google.com/file/d/1Ev_kDtN3DpLw_FGFffhvuTiJkpLt1m19/view?usp=sharing)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite&show_owner=true)](https://github.com/wasseobi/seobi-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite&show_owner=true)](https://github.com/wasseobi)
 
 #### 🛠 **Tech Stack**
 ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=msazure&logoColor=white)
